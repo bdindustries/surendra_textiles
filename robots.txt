@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://surendra-textiles.example/sitemap.xml
+Sitemap: https://surendratextiles.in/sitemap.xml

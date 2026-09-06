@@ -19,7 +19,7 @@ This package is a multi-page static website for Surendra Textiles in Jhalukpara,
 
 The HTML, sitemap and structured data still use:
 
-`https://surendra-textiles.example`
+`https://surendratextiles.in`
 
 Replace that value everywhere with the real HTTPS domain before the site is indexed. This is essential because canonical URLs and structured-data IDs must point to the live domain.
 
@@ -103,4 +103,4 @@ All are 1200×900 WebP files sized for web use.
 - `store-dibrugarh.html` is the dedicated physical retail outlet landing page for local store/shop intent.
 - Product pages support retail shoppers and category-specific local searches.
 - `wholesale-northeast.html` is kept focused on regional wholesale/distributor/bulk intent across Assam and Northeast India.
-- Before launch, replace every `surendra-textiles.example` canonical/schema/sitemap URL with the real production domain.
+- Before launch, replace every `surendratextiles.in` canonical/schema/sitemap URL with the real production domain.

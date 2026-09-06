@@ -18,4 +18,4 @@ This version separates the website's two main customer intents:
 
 ## Before publishing
 
-Replace every `https://surendra-textiles.example` reference in canonical tags, structured data, Open Graph URLs, `robots.txt` and `sitemap.xml` with the real production domain.
+Replace every `https://surendratextiles.in` reference in canonical tags, structured data, Open Graph URLs, `robots.txt` and `sitemap.xml` with the real production domain.
